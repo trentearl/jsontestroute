@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": {
+    "org": "test",
+    "route": "test",
+    "sami_prefix": "https://example.com/sami_prefix",
+    "image_prefix": "https://example.com/image_prefix",
+    "content_prefix": "https://example.com/content_prefix",
+    "feature_prefix": "https://example.com/feature_prefix",
+    "webview_prefix": "https://example.com/webview_prefix"
+  }
+}
